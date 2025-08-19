@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+    color: #8E7DBE;
+    font-size: 38px;
+    line-height: 48px;
+  }
+  h2 {
+    text-align: center;
+    color: #735557;
+    font-size: 34px;
+    line-height: 48px;
+  }
+  img {
+    display: block;
+    margin: 30px auto;
+    border-radius: 20px;
+  }
+  p {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 15px;
+    margin: 20px 0px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a {
+    text-align: center;
+    display: block;
+    margin-top: auto;
+    text-decoration: none;
+    font-size: 14x;
+    cursor: pointer;
+  }
+  button {
+    display: block;
+    margin: 30px auto;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #222222;
+    background-color: #FF6363;
+    border: 1px solid #FF6363;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    transition: all 200ms ease-in-out;
+  }
+  button:hover {
+    color: #FF6363;
+    background: #F8EEDF;
+    cursor: pointer;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 60px;
+    border: 1px solid #222222;
+    border-radius: 20px;
+    background-color: #F6F1DE;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .grannysquares {
+    color: #410445;
+  }
+  .coder {
+    font-family: monospace;
+    line-height: 100px;
+  }
